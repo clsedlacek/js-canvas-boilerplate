@@ -1,0 +1,2 @@
+# JS Canvas Boilerplate
+I make a lot of small projects with HTML5 canvas to test rendering and image manipulation techniques. This is a boilerplate to speed up the process; feel free to use it for whatever you want.
